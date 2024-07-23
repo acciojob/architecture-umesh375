@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+.Container{
+	width:1100px;
+	margin:0px;
+	padding:20px;
+}
+.imageContainer img{
+	text-alignP: center;
+	margin-bottom: 20px;
+}
+.imageContainer{
+	max-width:100%;
+	height:auto;
+}
+.Architecturetable{
+	width:100%;
+	border-collapse:collapse;
+}
+.Architecturetable td{
+	border:1px;
+	padding:10px;
+	text-align:center;
+}
+.Architecturetable im{
+	max-width:100%;
+	height:auto;
+}
